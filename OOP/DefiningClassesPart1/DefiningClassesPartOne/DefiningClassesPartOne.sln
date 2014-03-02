@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TasksFrom1to6", "01.DefineClassesGSM_Battery_Display\01.TasksFrom1to6.csproj", "{AA7BA96D-838B-4A72-8E76-D385E8BC0D21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.CreateGSMTest", "07.CreateGSMTest\07.CreateGSMTest.csproj", "{718FBEFF-07C2-4294-9D8D-E5A16655A2C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA7BA96D-838B-4A72-8E76-D385E8BC0D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7BA96D-838B-4A72-8E76-D385E8BC0D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7BA96D-838B-4A72-8E76-D385E8BC0D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7BA96D-838B-4A72-8E76-D385E8BC0D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{718FBEFF-07C2-4294-9D8D-E5A16655A2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718FBEFF-07C2-4294-9D8D-E5A16655A2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718FBEFF-07C2-4294-9D8D-E5A16655A2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718FBEFF-07C2-4294-9D8D-E5A16655A2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

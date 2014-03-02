@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPPrinciplesPart2", "OOPPrinciplesPart2\OOPPrinciplesPart2.csproj", "{DB600DAA-5DCF-45D0-836A-E190B54D24B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Task01", "01.Task01\01.Task01.csproj", "{E97FA968-5CF7-49CD-A501-C86A27193152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BankSystem", "BankSystem\02.BankSystem.csproj", "{25555FAF-2DB4-4086-A115-D155418C4BCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ClassExceptions", "03.ClassExceptions\03.ClassExceptions.csproj", "{C456B377-8B86-43AB-BFE1-EFBC4C58354D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB600DAA-5DCF-45D0-836A-E190B54D24B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB600DAA-5DCF-45D0-836A-E190B54D24B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB600DAA-5DCF-45D0-836A-E190B54D24B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB600DAA-5DCF-45D0-836A-E190B54D24B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E97FA968-5CF7-49CD-A501-C86A27193152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97FA968-5CF7-49CD-A501-C86A27193152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97FA968-5CF7-49CD-A501-C86A27193152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97FA968-5CF7-49CD-A501-C86A27193152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25555FAF-2DB4-4086-A115-D155418C4BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25555FAF-2DB4-4086-A115-D155418C4BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25555FAF-2DB4-4086-A115-D155418C4BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25555FAF-2DB4-4086-A115-D155418C4BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C456B377-8B86-43AB-BFE1-EFBC4C58354D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C456B377-8B86-43AB-BFE1-EFBC4C58354D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C456B377-8B86-43AB-BFE1-EFBC4C58354D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C456B377-8B86-43AB-BFE1-EFBC4C58354D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

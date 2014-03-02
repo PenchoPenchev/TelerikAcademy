@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksFrom1to7", "ExtensionMethodsDelegatesLINQ\TasksFrom1to7.csproj", "{30C8A68A-FE62-4D32-919F-BF8BF65513ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksFrom9to17", "09Student\TasksFrom9to17.csproj", "{F15EBC54-2155-4AF5-847E-7F707D36EA6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks18and19", "Tasks18and19\Tasks18and19.csproj", "{1FE04466-33CA-4ABC-9A87-2E9E9EB661E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30C8A68A-FE62-4D32-919F-BF8BF65513ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C8A68A-FE62-4D32-919F-BF8BF65513ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C8A68A-FE62-4D32-919F-BF8BF65513ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C8A68A-FE62-4D32-919F-BF8BF65513ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15EBC54-2155-4AF5-847E-7F707D36EA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15EBC54-2155-4AF5-847E-7F707D36EA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15EBC54-2155-4AF5-847E-7F707D36EA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15EBC54-2155-4AF5-847E-7F707D36EA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE04466-33CA-4ABC-9A87-2E9E9EB661E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE04466-33CA-4ABC-9A87-2E9E9EB661E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE04466-33CA-4ABC-9A87-2E9E9EB661E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE04466-33CA-4ABC-9A87-2E9E9EB661E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
